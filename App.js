@@ -105,7 +105,7 @@ export default class App extends React.Component {
         </TouchableOpacity>
 
 
-        <Text>{this.state.StringAt}</Text> 
+        <Text style ={{marginTop : 30 , fontSize : 20, marginLeft : 20}}>{this.state.StringAt}</Text> 
 
       
         
